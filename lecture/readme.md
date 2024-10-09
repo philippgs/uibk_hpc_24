@@ -18,3 +18,4 @@ It will be updated continuously throughout the semester.
 | No                                       | Date       | Topics                                              |
 | ---------------------------------------- | ---------- | --------------------------------------------------- |
 | [01](01_motivation_and_crash_course.pdf) | 2024-10-02 | Administrative matters, Motivation and Crash Course |
+| [02](02_mpi_basics.pdf)                  | 2024-10-09 | MPI - Message Passing Interface                     |
