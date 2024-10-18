@@ -14,7 +14,7 @@ This exercise consists in extending the heat stencil application of Assignment 2
 - Illustrate the data in appropriate figures and discuss them. What can you observe?
 - Measure and illustrate one domain-specific and one domain-inspecific performance metric. What can you observe?
 - How can you verify the correctness of your applications?
-- Insert the wall times for the sequential version and for 96 cores for `N=768x768` and `T=N*100` into the comparison spreadsheet: https://docs.google.com/spreadsheets/d/1p6d9F12EtykmI2-7MnHkg0U15UAtaCvWz8Ip92ZEsWo
+- Insert the wall times for the sequential version and for 96 cores for `N=768x768` and `T=768*100` into the comparison spreadsheet: https://docs.google.com/spreadsheets/d/1p6d9F12EtykmI2-7MnHkg0U15UAtaCvWz8Ip92ZEsWo
 
 ## Exercise 2 (1.5 Points)
 
