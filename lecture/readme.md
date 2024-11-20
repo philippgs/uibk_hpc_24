@@ -23,3 +23,4 @@ It will be updated continuously throughout the semester.
 | [04](04_mpi_advanced.pdf)                | 2024-10-30 | MPI Derived Datatypes and Virtual Topologies        |
 | [05](05_dwarfs.pdf)                      | 2024-11-06 | The 13 Dwarfs of HPC                                |
 | [06](06_mpi_advanced_2.pdf)              | 2024-11-13 | Groups, Communicators and One-Sided Communication   |
+| [07](07_parallel_io.pdf)                 | 2024-11-20 | Parallel I/O                                        |
