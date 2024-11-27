@@ -24,3 +24,4 @@ It will be updated continuously throughout the semester.
 | [05](05_dwarfs.pdf)                      | 2024-11-06 | The 13 Dwarfs of HPC                                |
 | [06](06_mpi_advanced_2.pdf)              | 2024-11-13 | Groups, Communicators and One-Sided Communication   |
 | [07](07_parallel_io.pdf)                 | 2024-11-20 | Parallel I/O                                        |
+| [08](08_programming_models.pdf)          | 2024-11-27 | Additional Programming Models                       |
