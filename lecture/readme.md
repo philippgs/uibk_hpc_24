@@ -26,3 +26,4 @@ It will be updated continuously throughout the semester.
 | [07](07_parallel_io.pdf)                 | 2024-11-20 | Parallel I/O                                        |
 | [08](08_programming_models.pdf)          | 2024-11-27 | Additional Programming Models                       |
 | [09](09_measurements.pdf)                | 2024-12-04 | Measuring and Reporting Performance                 |
+| [10](10_domain_decomposition.pdf)        | 2024-12-11 | Domain Decomposition and Load Balancing             |
