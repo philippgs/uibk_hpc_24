@@ -34,6 +34,7 @@ for that assignment have to be handed in via OLAT by 17:00 on Monday.
 | 2024-11-26 | [8](08)    | N-body: One-sided communication                             |
 | 2024-12-03 | [9](09)    | Parallel I/O                                                |
 | 2025-01-07 | [10](10)   | Mandelbrot: Parallelization & load imbalance                |
+| 2025-01-14 | [11](11)   | Basic parallelization with Chapel                           |
 
 ## Handing in and Presenting Solutions
 
