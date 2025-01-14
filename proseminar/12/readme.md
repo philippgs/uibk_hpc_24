@@ -1,4 +1,4 @@
-# Assignment 13
+# Assignment 12
 
 The goal of this assignment is to experiment with accelerator programming using SYCL.
 
