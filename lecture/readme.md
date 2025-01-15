@@ -27,3 +27,4 @@ It will be updated continuously throughout the semester.
 | [08](08_programming_models.pdf)          | 2024-11-27 | Additional Programming Models                       |
 | [09](09_measurements.pdf)                | 2024-12-04 | Measuring and Reporting Performance                 |
 | [10](10_domain_decomposition.pdf)        | 2024-12-11 | Domain Decomposition and Load Balancing             |
+| [11](11_accelerators.pdf)                | 2025-01-15 | Accelerator Computing                               |
