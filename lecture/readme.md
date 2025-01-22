@@ -28,3 +28,4 @@ It will be updated continuously throughout the semester.
 | [09](09_measurements.pdf)                | 2024-12-04 | Measuring and Reporting Performance                 |
 | [10](10_domain_decomposition.pdf)        | 2024-12-11 | Domain Decomposition and Load Balancing             |
 | [11](11_accelerators.pdf)                | 2025-01-15 | Accelerator Computing                               |
+| [12](12_energy.pdf)                      | 2025-01-22 | Energy in HPC                                       |
